@@ -1,3 +1,5 @@
+![Looking For Work](https://raw.githubusercontent.com/jtrquinn/jtrquinn.github.io/master/assets/images/looking_for_work.png)
+
 # John Michael Quinn III
 
 Software Engineer | Web Developer
