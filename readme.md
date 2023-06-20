@@ -21,7 +21,7 @@ Creating robust, high-quality, and user-centric web solutions with a focus on fr
 - Tools: Git, Visual Studio Code, JIRA
 
 ## Experience
-### VetFriends | Software Engineer | May 2021 - Present | New York, NY (remote)
+### VeeFriends | Software Engineer | May 2021 - Present | New York, NY (remote)
 - Collaborated with designers to revamp the UI/UX of the company's website using React, resulting in a 20% increase in user engagement.
 - Contributed to the development of new navigation and event pages using Angular, improving site navigation by 30%.
 - Actively participated in code reviews and documentation efforts, promoting code quality and knowledge sharing within the team.
